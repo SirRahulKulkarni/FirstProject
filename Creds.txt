@@ -1,2 +1,0 @@
-username = rsk
-password = rsk1589
